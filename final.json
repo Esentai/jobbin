@@ -1,0 +1,470 @@
+{
+    "residents": [
+        {
+            "fullName" : "Курманбай Есентай",
+            "flat": {
+                "houseNumber": 97,
+                "apartmentNumber": 31,
+                "entranceNumber": 2,
+                "floor": 4,
+                "city": "Almaty",
+                "street": "Жарокова",
+                "contract number": "6845135489"
+            },
+            "schedule": {
+                "monday" : "8:30",
+                "tuesday": "8:30",
+                "wednesday": "8:30",
+                "thursday": "8:30",
+                "friday": "8:30",
+                "saturday": "10:30",
+                "sunday": "10:30"
+            },
+            "isParticipant": true,
+            "accont":
+            {
+                "login": "esentaik",
+                "password": "password123",
+                "scores": 0,
+                "bonusesHistory": [
+                    {
+                        "date": "2021-04-10",
+                        "added": 0
+                    }
+                ]
+            }
+        },
+        {
+            "fullName" : "Мерекеев Тимур",
+            "flat": {
+                "houseNumber": 5,
+                "apartmentNumber": 15,
+                "entranceNumber": 3,
+                "floor": 5,
+                "city": "Алматы",
+                "street": "​Жетысу 2 м-н, Ауэзовский район",
+                "contract number": "6845135221"
+            },
+            "schedule": {
+                "monday" : "10:30",
+                "tuesday": "10:30",
+                "wednesday": "10:30",
+                "thursday": "10:30",
+                "friday": "10:30",
+                "saturday": "12:30",
+                "sunday": "12:30"
+            },
+            "isParticipant": true,
+            "accont":
+            {
+                "login": "smoke_one",
+                "password": "password123",
+                "scores": 0,
+                "bonusesHistory": [
+                    {
+                        "date": "2021-04-10",
+                        "added": 0
+                    }
+                ]
+            }
+        },
+        {
+            "fullName" : "Оразкулов Темирлан",
+            "flat": {
+                "houseNumber": 76,
+                "apartmentNumber": 31,
+                "entranceNumber": 1,
+                "floor": 5,
+                "city": "Алматы",
+                "street": "проспект Назарбаева",
+                "contract number": "9815354684"
+            },
+            "schedule": {
+                "monday" : "9:30",
+                "tuesday": "9:30",
+                "wednesday": "9:30",
+                "thursday": "9:30",
+                "friday": "9:30",
+                "saturday": "10:15",
+                "sunday": "10:15"
+            },
+            "isParticipant": true,
+            "accont":
+            {
+                "login": "tima",
+                "password": "password123",
+                "scores": 0,
+                "bonusesHistory": [
+                    {
+                        "date": "2021-04-10",
+                        "added": 0
+                    }
+                ]
+            }
+        },
+        {
+            "fullName" : "Касымбеков Абдусаттар",
+            "flat": {
+                "houseNumber": 25,
+                "apartmentNumber": 13,
+                "entranceNumber": 1,
+                "floor": 1,
+                "city": "Алматы",
+                "street": "Каирбекова",
+                "contract number": "7541611235"
+            },
+            "schedule": {
+                "monday" : "11:30",
+                "tuesday": "11:30",
+                "wednesday": "11:30",
+                "thursday": "11:30",
+                "friday": "11:30",
+                "saturday": "13:15",
+                "sunday": "13:15"
+            },
+            "isParticipant": true,
+            "accont":
+            {
+                "login": "abdog",
+                "password": "password123",
+                "scores": 0,
+                "bonusesHistory": [
+                    {
+                        "date": "2021-04-10",
+                        "added": 0
+                    }
+                ]
+            }
+        },
+        {
+            "fullName" : "Кудайбергенов Азамат",
+            "flat": {
+                "houseNumber": 81,
+                "apartmentNumber": 28,
+                "entranceNumber": 1,
+                "floor": 3,
+                "city": "Алматы",
+                "street": "Желтоксан",
+                "contract number": "8451644123"
+            },
+            "schedule": {
+                "monday" : "11:30",
+                "tuesday": "11:30",
+                "wednesday": "11:30",
+                "thursday": "11:30",
+                "friday": "11:30",
+                "saturday": "13:15",
+                "sunday": "13:15"
+            },
+            "isParticipant": true,
+            "accont":
+            {
+                "login": "azamatK",
+                "password": "password123",
+                "scores": 0,
+                "bonusesHistory": [
+                    {
+                        "date": "2021-04-10",
+                        "added": 0
+                    }
+                ]
+            }
+        },
+        {
+            "fullName" : "Аргынбаев Нурбол",
+            "flat": {
+                "houseNumber": 97,
+                "apartmentNumber": 13,
+                "entranceNumber": 4,
+                "floor": 2,
+                "city": "Алматы",
+                "street": "Жарокова",
+                "contract number": "8451644123"
+            },
+            "schedule": {
+                "monday" : "10:30",
+                "tuesday": "7:30",
+                "wednesday": "7:30",
+                "thursday": "7:30",
+                "friday": "7:30",
+                "saturday": "11:20",
+                "sunday": "11:20"
+            },
+            "isParticipant": true,
+            "accont":
+            {
+                "login": "nurball",
+                "password": "password123",
+                "scores": 0,
+                "bonusesHistory": [
+                    {
+                        "date": "2021-04-10",
+                        "added": 0
+                    }
+                ]
+            }
+        },
+        {
+            "fullName" : "Василий Сербин",
+            "flat": {
+                "houseNumber": 37,
+                "apartmentNumber": 3,
+                "entranceNumber": 7,
+                "floor": 5,
+                "city": "Алматы",
+                "street": "Жарокова",
+                "contract number": "7354661544"
+            },
+            "schedule": {
+                "monday" : "10:30",
+                "tuesday": "10:30",
+                "wednesday": "10:30",
+                "thursday": "10:30",
+                "friday": "10:30",
+                "saturday": "14:20",
+                "sunday": "14:20"
+            },
+            "isParticipant": true,
+            "accont":
+            {
+                "login": "vsBin",
+                "password": "password123",
+                "scores": 0,
+                "bonusesHistory": [
+                    {
+                        "date": "2021-04-10",
+                        "added": 0
+                    }
+                ]
+            }
+        },
+        {
+            "fullName" : "Кайратовна Айгерим",
+            "flat": {
+                "houseNumber": 209,
+                "apartmentNumber": 41,
+                "entranceNumber": 2,
+                "floor": 5,
+                "city": "Алматы",
+                "street": "Карасай батыра",
+                "contract number": "7844531154"
+            },
+            "schedule": {
+                "monday" : "10:30",
+                "tuesday": "10:30",
+                "wednesday": "10:30",
+                "thursday": "10:30",
+                "friday": "10:30",
+                "saturday": "14:20",
+                "sunday": "14:20"
+            },
+            "isParticipant": true,
+            "accont":
+            {
+                "login": "aitim",
+                "password": "password123",
+                "scores": 0,
+                "bonusesHistory": [
+                    {
+                        "date": "2021-04-10",
+                        "added": 0
+                    }
+                ]
+            }
+        },
+        {
+            "fullName" : "Алиева Айзере",
+            "flat": {
+                "houseNumber": 285,
+                "apartmentNumber": 14,
+                "entranceNumber": 1,
+                "floor": 5,
+                "city": "Алматы",
+                "street": "Богенбай батыра",
+                "contract number": "9154456651"
+            },
+            "schedule": {
+                "monday" : "10:30",
+                "tuesday": "10:30",
+                "wednesday": "10:30",
+                "thursday": "10:30",
+                "friday": "10:30",
+                "saturday": "14:20",
+                "sunday": "14:20"
+            },
+            "isParticipant": true,
+            "accont":
+            {
+                "login": "aiz1",
+                "password": "password123",
+                "scores": 0,
+                "bonusesHistory": [
+                    {
+                        "date": "2021-04-10",
+                        "added": 0
+                    }
+                ]
+            }
+        },
+        {
+            "fullName" : "Ержигит Мырзабаев",
+            "flat": {
+                "houseNumber": 188,
+                "apartmentNumber": 26,
+                "entranceNumber": 1,
+                "floor": 9,
+                "city": "Алматы",
+                "street": "Толе би",
+                "contract number": "8154113541"
+            },
+            "schedule": {
+                "monday" : "10:30",
+                "tuesday": "10:30",
+                "wednesday": "10:30",
+                "thursday": "10:30",
+                "friday": "10:30",
+                "saturday": "14:20",
+                "sunday": "14:20"
+            },
+            "isParticipant": true,
+            "accont":
+            {
+                "login": "yeroxachi",
+                "password": "password123",
+                "scores": 0,
+                "bonusesHistory": [
+                    {
+                        "date": "2021-04-10",
+                        "added": 0
+                    }
+                ]
+            }
+        }
+    ],
+    "baskets": [
+        {
+            "completeness": 82,
+            "history" : ["2020-01-12"],
+            "lng": 43.253794,
+            "lat": 76.92999,
+            "type": "plastic"
+        },
+        {
+            "completeness": 64,
+            "history" : ["2020-01-12"],
+            "lng": 43.250924,
+            "lat": 76.951691,
+            "type": "paper"
+        },
+        {
+            "completeness": 78,
+            "history" : ["2020-01-12"],
+            "lng": 43.268279,
+            "lat": 76.959427,
+            "type": "metal"
+        },
+        {
+            "completeness": 89,
+            "history" : ["2020-01-12"],
+            "lng": 43.252289,
+            "lat": 76.927609,
+            "type": "paper"
+        },
+        {
+            "completeness": 64,
+            "history" : ["2020-01-12"],
+            "lng": 43.352289,
+            "lat": 76.727609,
+            "type": "paper"
+        },
+        {
+            "completeness": 44,
+            "history" : ["2020-01-12"],
+            "lng": 43.230602,
+            "lat": 76.921178,
+            "type": "paper"
+        },
+        {
+            "completeness": 87,
+            "history" : ["2020-01-12"],
+            "lng": 43.221525,
+            "lat": 76.92229,
+            "type": "paper"
+        },
+        {
+            "completeness": 88,
+            "history" : ["2020-01-12"],
+            "lng": 43.204876,
+            "lat": 76.870709,
+            "type": "paper"
+        },
+        {
+            "completeness": 19,
+            "history" : ["2020-01-12"],
+            "lng": 43.224088,
+            "lat": 76.919093,
+            "type": "metal"
+        },
+        {
+            "completeness": 99,
+            "history" : ["2020-01-12"],
+            "lng": 43.247264,
+            "lat": 76.91675,
+            "type": "paper"
+        },
+        {
+            "completeness": 33,
+            "history" : ["2020-01-12"],
+            "lng": 43.266471,
+            "lat": 76.9539,
+            "type": "metal"
+        },
+        {
+            "completeness": 67,
+            "history" : ["2020-01-12"],
+            "lng": 43.263879,
+            "lat": 76.920754,
+            "type": "metal"
+        },
+        {
+            "completeness": 33,
+            "history" : ["2020-01-12"],
+            "lng": 43.243627,
+            "lat": 76.962576,
+            "type": "plastic"
+        },
+        {
+            "completeness": 67,
+            "history" : ["2020-01-12"],
+            "lng": 43.224432,
+            "lat": 76.924293,
+            "type": "plastic"
+        }
+    ],
+    "drivers": [
+        {
+            "login": "abdog",
+            "password": "password123",
+            "history": {
+                "2021-03-10": [
+                    {
+                        "lng": 43.253794,
+                        "lat": 76.92999
+                    }
+                ]
+            }
+        },
+        {
+            "login": "smoke_one",
+            "password": "password123",
+            "history": {
+                "2021-03-10": [
+                    {
+                        "lng": 43.253794,
+                        "lat": 76.92999
+                    }
+                ]
+            }
+        }
+    ]
+}
